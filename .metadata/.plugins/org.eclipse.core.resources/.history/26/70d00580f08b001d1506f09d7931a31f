@@ -1,0 +1,10 @@
+import aaa.bbb
+
+public class Package {
+
+	public static void main(String[] args) {
+		aaa.bbb.AAA;
+
+	}
+
+}
