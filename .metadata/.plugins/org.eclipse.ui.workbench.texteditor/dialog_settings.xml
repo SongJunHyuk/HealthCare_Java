@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="&#x0A;public class Operator {&#x0A;&#x09;public static void main(String[] args) {&#x0A;&#x09;&#x09;int num = 10;&#x0A;&#x0A;&#x09;    System.out.println( num / 3 ); // 3 O,   3.3333.... X&#x0A;&#x09;    System.out.println( num % 3 ); // 1&#x0A;&#x09;    &#x0A;&#x09;    System.out.println();&#x0A;&#x09;    &#x0A;&#x09;    num += 10;&#x0A;&#x09;    System.out.println( num );&#x0A;&#x09;    System.out.println( num /= 5 ); // 연산 후 출력&#x0A;&#x09;    &#x0A;&#x09;    System.out.println();&#x0A;&#x09;    &#x0A;&#x09;    num = 10;&#x0A;&#x09;   System.out.println(num++); // 10 출력 후 11로 증가      &#x0A;&#x09;   System.out.println(++num); // 12로 증가 후 12 출력         &#x0A;&#x09;   System.out.println(num--); // 12 출력 후 11로 감소      &#x0A;&#x09;   System.out.println(--num); // 10 감소 후 10 출력&#x0A;&#x09;}&#x0A;}&#x0A;"/>
+		<item key="selection" value="   &#x09;&#x09;window.onload = function() {"/>
 		<item key="wrap" value="true"/>
 		<item key="casesensitive" value="false"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="   &#x09;&#x09;window.onload = function() {"/>
 			<item value="&#x0A;public class Operator {&#x0A;&#x09;public static void main(String[] args) {&#x0A;&#x09;&#x09;int num = 10;&#x0A;&#x0A;&#x09;    System.out.println( num / 3 ); // 3 O,   3.3333.... X&#x0A;&#x09;    System.out.println( num % 3 ); // 1&#x0A;&#x09;    &#x0A;&#x09;    System.out.println();&#x0A;&#x09;    &#x0A;&#x09;    num += 10;&#x0A;&#x09;    System.out.println( num );&#x0A;&#x09;    System.out.println( num /= 5 ); // 연산 후 출력&#x0A;&#x09;    &#x0A;&#x09;    System.out.println();&#x0A;&#x09;    &#x0A;&#x09;    num = 10;&#x0A;&#x09;   System.out.println(num++); // 10 출력 후 11로 증가      &#x0A;&#x09;   System.out.println(++num); // 12로 증가 후 12 출력         &#x0A;&#x09;   System.out.println(num--); // 12 출력 후 11로 감소      &#x0A;&#x09;   System.out.println(--num); // 10 감소 후 10 출력&#x0A;&#x09;}&#x0A;}&#x0A;"/>
 		</list>
 		<list key="replacehistory">
