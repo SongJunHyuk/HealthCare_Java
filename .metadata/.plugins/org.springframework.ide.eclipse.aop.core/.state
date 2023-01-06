@@ -2,4 +2,5 @@
 <aop-reference-model>
 <aop-project name="demo"/>
 <aop-project name="SpringBootBasic"/>
+<aop-project name="ShoppingMall"/>
 </aop-reference-model>
